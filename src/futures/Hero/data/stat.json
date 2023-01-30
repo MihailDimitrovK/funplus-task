@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "title": "Downloads",
+      "amount": "300M+",
+      "img": "arrow.png"
+    },
+    {
+      "title": "Employees",
+      "amount": "2000+",
+      "img": "employees.png"
+    },
+    {
+      "title": "Years of History",
+      "amount": "12+",
+      "img": "users.png"
+    }
+  ]
+}
